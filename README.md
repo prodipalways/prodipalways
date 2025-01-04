@@ -21,12 +21,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## ☕ Connect with me!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodipalways&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/prodipalways/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/prodipalways)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=prodipalways)  
 
 
