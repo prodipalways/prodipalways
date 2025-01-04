@@ -15,12 +15,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 - [ ] ✅ JavaScript
 - [ ] ✅ PHP
 - [ ] ✅ HTML5 / CSS3 / SASS / Bootstrap
-- [ ]✅ Photoshop / Illustrator
-
-- 🔭 I’m currently working on WordPress 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-
+- [ ] ✅ Photoshop / Illustrator
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prodipalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prodipalways/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prodipalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prodipalways/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prodipalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/prodipalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](prodipalways)  
 
