@@ -1,5 +1,4 @@
 ### Hi, I'm Prodip Ray 👋
-</hr>
 ![👑 I am Web Developer</br>🖊️ Love to write code</br>🎤 Like to share my knowledge](https://github.com/shovoalways/shovoalways/raw/main/img/bg.jpg?raw=true)
 #### 👑 I am Web Developer</br>🖊️ Love to write code</br>🎤 Like to share my knowledge
 
