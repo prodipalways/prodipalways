@@ -25,8 +25,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p dir="auto"><a href="https://www.facebook.com/prodipalways" rel="nofollow">
 <img src="https://github.com/shovoalways/shovoalways/raw/main/img/facebook.png?raw=true" alt="facebook" height="40" style="max-width: 100%;"></a>  <a href="https://www.instagram.com/rkprodipbd/" rel="nofollow"><img src="https://github.com/shovoalways/shovoalways/raw/main/img/instagram.png?raw=true" alt="instagram" height="40" style="max-width: 100%;"></a>  <a href="https://twitter.com/rkprodipbd" rel="nofollow"><img src="https://github.com/shovoalways/shovoalways/raw/main/img/twitter.png?raw=true" alt="twitter" height="40" style="max-width: 100%;"></a>  <a href="https://www.youtube.com/@rkprodip" rel="nofollow"><img src="https://github.com/shovoalways/shovoalways/raw/main/img/youtube.png?raw=true" alt="YouTube" height="40" style="max-width: 100%;"></a>  <a href="https://www.linkedin.com/in/rkprodip/" rel="nofollow"><img src="https://github.com/shovoalways/shovoalways/raw/main/img/linkedin.png?raw=true" alt="linkedin" height="40" style="max-width: 100%;"></a></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=prodipalways)  
-
 ## 📧 For Business Inquiries
 ✅ ► prodipalways@gmail.com
 
